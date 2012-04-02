@@ -1,0 +1,25 @@
+Migrating to DeviseCreateUsers (20120402111628)
+Migrating to DeviseCreateUsers (20120402111628)
+Migrating to DeviseCreateUsers (20120402111628)
+Migrating to DeviseCreateUsers (20120402111628)
+Migrating to DeviseCreateUsers (20120402111628)
+  Rendered /Users/flores/.rbenv/versions/1.9.3-p125/lib/ruby/gems/1.9.1/gems/devise-2.0.4/app/views/devise/mailer/confirmation_instructions.html.erb (11.4ms)
+Migrating to DeviseCreateUsers (20120402111628)
+Migrating to DeviseCreateUsers (20120402111628)
+  Rendered /Users/flores/.rbenv/versions/1.9.3-p125/lib/ruby/gems/1.9.1/gems/devise-2.0.4/app/views/devise/mailer/confirmation_instructions.html.erb (15.5ms)
+Migrating to DeviseCreateUsers (20120402111628)
+Migrating to DeviseCreateUsers (20120402111628)
+  Rendered /Users/flores/.rbenv/versions/1.9.3-p125/lib/ruby/gems/1.9.1/gems/devise-2.0.4/app/views/devise/mailer/confirmation_instructions.html.erb (5.5ms)
+
+Sent mail to a@b.com (47ms)
+Migrating to DeviseCreateUsers (20120402111628)
+Migrating to DeviseCreateUsers (20120402111628)
+  Rendered /Users/flores/.rbenv/versions/1.9.3-p125/lib/ruby/gems/1.9.1/gems/devise-2.0.4/app/views/devise/mailer/confirmation_instructions.html.erb (11.4ms)
+
+Sent mail to a@b.com (25ms)
+  Rendered /Users/flores/.rbenv/versions/1.9.3-p125/lib/ruby/gems/1.9.1/gems/devise-2.0.4/app/views/devise/mailer/confirmation_instructions.html.erb (5.9ms)
+
+Sent mail to a@b.com (25ms)
+  Rendered /Users/flores/.rbenv/versions/1.9.3-p125/lib/ruby/gems/1.9.1/gems/devise-2.0.4/app/views/devise/mailer/confirmation_instructions.html.erb (5.9ms)
+
+Sent mail to a@b.com (24ms)
