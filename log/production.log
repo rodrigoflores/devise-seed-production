@@ -23,3 +23,12 @@ Sent mail to a@b.com (25ms)
   Rendered /Users/flores/.rbenv/versions/1.9.3-p125/lib/ruby/gems/1.9.1/gems/devise-2.0.4/app/views/devise/mailer/confirmation_instructions.html.erb (5.9ms)
 
 Sent mail to a@b.com (24ms)
+  Rendered /Users/flores/.rbenv/versions/1.9.3-p125/lib/ruby/gems/1.9.1/gems/devise-2.0.4/app/views/devise/mailer/confirmation_instructions.html.erb (11.5ms)
+
+Sent mail to a@b.com (26ms)
+  Rendered /Users/flores/.rbenv/versions/1.9.3-p125/lib/ruby/gems/1.9.1/gems/devise-2.0.4/app/views/devise/mailer/confirmation_instructions.html.erb (6.3ms)
+
+Sent mail to a@b.com (27ms)
+  Rendered /Users/flores/.rbenv/versions/1.9.3-p125/lib/ruby/gems/1.9.1/gems/devise-2.0.4/app/views/devise/mailer/confirmation_instructions.html.erb (6.4ms)
+
+Sent mail to a@b.com (33ms)
